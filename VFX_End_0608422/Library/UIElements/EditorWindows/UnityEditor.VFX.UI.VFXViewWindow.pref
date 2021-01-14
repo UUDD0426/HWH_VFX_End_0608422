@@ -16,5 +16,5 @@ MonoBehaviour:
   - __PanelContainer__rootVisualContainer__VFXView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
   - __PanelContainer__rootVisualContainer__VFXView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
   m_Values:
-  - '{"position":{"x":-35.0,"y":210.0,"z":0.0},"scale":{"x":0.125,"y":0.125,"z":1.0}}'
-  - '{"m_Version":1562,"m_SelectedElementsArray":["8f5a4e59-1823-455b-a61b-07ef8eeacbca","acc5d83b-33cd-46f1-8b70-3820aa075932","e0f76e59-d957-4413-9acd-1a9fa5b58812","9d27df16-735f-48bd-8e52-a873f3f6fdc0","cdf8b5cd-7d46-4848-beda-e10d23791ca5","NodeID--292874","NodeID--293250","NodeID--293688","NodeID--295544","91c84dee-e399-45d4-baff-b34a71c5ad65","NodeID--296414","14c02526-e32d-4bea-babe-0dcf20f67e19","NodeID--298898"]}'
+  - '{"position":{"x":-740.0,"y":-622.0,"z":0.0},"scale":{"x":0.28426238894462588,"y":0.28426238894462588,"z":1.0}}'
+  - '{"m_Version":0,"m_SelectedElementsArray":["8f5a4e59-1823-455b-a61b-07ef8eeacbca","acc5d83b-33cd-46f1-8b70-3820aa075932","e0f76e59-d957-4413-9acd-1a9fa5b58812","9d27df16-735f-48bd-8e52-a873f3f6fdc0","cdf8b5cd-7d46-4848-beda-e10d23791ca5","NodeID--292874","NodeID--293250","NodeID--293688","NodeID--295544","91c84dee-e399-45d4-baff-b34a71c5ad65","NodeID--296414","14c02526-e32d-4bea-babe-0dcf20f67e19","NodeID--298898"]}'

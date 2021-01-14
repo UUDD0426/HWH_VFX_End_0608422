@@ -3477,7 +3477,7 @@ VisualEffectResource:
             atime1: 7132
             atime2: 52428
             atime3: 65535
-            atime4: 0
+            atime4: 65535
             atime5: 0
             atime6: 0
             atime7: 0
@@ -5951,7 +5951,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d78581a96eae8bf4398c282eb0b098bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -7490,7 +7490,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d78581a96eae8bf4398c282eb0b098bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -8751,7 +8751,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d78581a96eae8bf4398c282eb0b098bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -10570,7 +10570,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615346}
   m_ExposedName: "\u84C4\u80FD\u751F\u547D\u9031\u671F"
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 0
   m_Category: 
   m_Min:
     m_Type:
@@ -10718,7 +10718,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615350}
   m_ExposedName: "\u84C4\u80FD\u6F38\u5C64"
   m_Exposed: 1
-  m_Order: 2
+  m_Order: 1
   m_Category: 
   m_Min:
     m_Type:
@@ -10795,7 +10795,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615352}
   m_ExposedName: "\u80FD\u91CF\u751F\u547D\u9031\u671F"
   m_Exposed: 1
-  m_Order: 3
+  m_Order: 2
   m_Category: 
   m_Min:
     m_Type:
@@ -10943,7 +10943,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615356}
   m_ExposedName: "\u80FD\u91CF\u5927\u5C0F"
   m_Exposed: 1
-  m_Order: 4
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:
@@ -11122,7 +11122,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615361}
   m_ExposedName: "\u80FD\u91CF\u6F38\u5C64"
   m_Exposed: 1
-  m_Order: 5
+  m_Order: 4
   m_Category: 
   m_Min:
     m_Type:
@@ -11199,7 +11199,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615373}
   m_ExposedName: "\u6CE2\u7D0B\u5927\u5C0F"
   m_Exposed: 1
-  m_Order: 6
+  m_Order: 5
   m_Category: 
   m_Min:
     m_Type:
@@ -11371,14 +11371,14 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
   m_OutputSlots:
   - {fileID: 8926484042661615495}
   m_ExposedName: "\u5149\u5708\u6F38\u5C64"
   m_Exposed: 1
-  m_Order: 7
+  m_Order: 6
   m_Category: 
   m_Min:
     m_Type:
@@ -11455,7 +11455,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615497}
   m_ExposedName: "\u661F\u661F\u751F\u547D\u9031\u671F"
   m_Exposed: 1
-  m_Order: 8
+  m_Order: 7
   m_Category: 
   m_Min:
     m_Type:
@@ -11766,7 +11766,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615514}
   m_ExposedName: "\u61C9\u8A72\u662F\u661F\u661F\u5927\u5C0F"
   m_Exposed: 1
-  m_Order: 9
+  m_Order: 8
   m_Category: 
   m_Min:
     m_Type:
@@ -11945,7 +11945,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615519}
   m_ExposedName: "\u661F\u661F\u6F38\u5C64"
   m_Exposed: 1
-  m_Order: 10
+  m_Order: 9
   m_Category: 
   m_Min:
     m_Type:
